@@ -1,5 +1,6 @@
 package models;
 
+
 public class Company {
     private Address address;
     private String name;
