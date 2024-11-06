@@ -1,6 +1,6 @@
 package models;
 
-class SavingsAccount extends BankAccount {
+public class SavingsAccount extends BankAccount {
     private double interestRate = 0.02;
 
     public SavingsAccount(double initialBalance) {

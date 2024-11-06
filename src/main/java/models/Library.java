@@ -25,7 +25,7 @@ public class Library {
         System.out.println("Book not found");
     }
 
-    public void showBook(){
+    public void showBooks(){
         if (books.isEmpty()) {
             System.out.println("No books found");
         } else {
